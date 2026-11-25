@@ -1,0 +1,6 @@
+{
+  "name": "Relaylane",
+  "description": "Multi-tenant customer onboarding and workflow engine with strict tenant isolation, role-based access control, Redis-backed session and board caching, and immutable audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
